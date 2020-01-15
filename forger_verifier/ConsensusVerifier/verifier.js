@@ -7,19 +7,23 @@ var servers = [];
 var betterConsensusServer = null;
 var timeInterval = null;
 
-initiate().then(function(response){
-    var config = JSON.parse(response);    
-    if (config.hosts.length === 0){
-        throw new Error("0 servers");
-    }
+console.log('initiating');
+initialization();
 
-    servers = config.hosts;
-    betterConsensusServer = servers[0];
-    timeInterval = config.time;
+function initialization(){
+    initiate().then(function(response){
+        var config = JSON.parse(response);    
+        if (config.hosts.length === 0){
+            throw new Error("0 servers");
+        }
 
-    console.log('initiating');
-    verifyConsensus();
-});
+        servers = config.hosts;
+        betterConsensusServer = servers[0];
+        timeInterval = config.time;
+        
+        verifyConsensus();
+    });
+}
 
 async function initiate(){
     let response = monitorServers.readFileSync("./monitor.json");
@@ -94,7 +98,7 @@ function updateServerProperties(){
             serveraux.forging = false;
         });
 
-        betterConsensusServer = servers[0];
+        betterConsensusServer = servers[0];        
         verifyConsensus();
     
     }, timeInterval);
@@ -112,6 +116,11 @@ function setForging(server){
         if (forgingRequest.status === 200){
             console.log("completed");
         }
+    }
+
+    forgingRequest.handleError = function(e){
+        console.log("Host: ".concat(JSON.parse(forgingRequest.getRequestHeader("server-host"))).concat(" didn't answer or was in error"));
+        return;        
     }
 
     forgingRequest.open("POST", url);

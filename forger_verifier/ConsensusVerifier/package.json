@@ -1,6 +1,6 @@
 {
   "name": "consensusverifier",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Verifiy broadhash consensus of Lisk node and then set it to be a forger",
   "main": "verifier.js",
   "scripts": {

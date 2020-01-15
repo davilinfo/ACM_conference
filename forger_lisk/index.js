@@ -10,6 +10,8 @@ const
 var app = express();
 var host = 'localhost:';
 var port = 10000;
+var invalidDelegate = "invalid delegate info";
+var errorMessage = "it didn't answer or was in error";
 
 initiate().then(function(response){
     var accountInfo = JSON.parse(response)[0];
@@ -39,12 +41,11 @@ async function initiate(){
 }
 
 function setForging(server, accountInfo){
-
-    var invalidDelegate = { "result": "invalid delegate info" };
+    
     if (accountInfo.publicKey !== server.publicKey){
         log.info("Different account");
 
-        return JSON.parse(invalidDelegate);
+        return JSON.parse( { "message": invalidDelegate} );
     }
 
     var forgingData = 
@@ -63,6 +64,11 @@ function setForging(server, accountInfo){
             console.log("Forging changed");
             console.log(JSON.parse(forgingRequest.responseText).data);
         }
+    }
+
+    forgingRequest.handleError = function (e){
+        console.log("error: ".concat(e));
+        return errorMessage;
     }
 
     forgingRequest.open("PUT", url, false);

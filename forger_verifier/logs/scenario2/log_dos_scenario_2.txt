@@ -1,0 +1,1993 @@
+initiating
+Get consensus servers: 
+host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com consensus: 100
+host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com consensus: 100
+host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com consensus: 100
+host: 172.18.90.83 consensus: 100
+Forging: 
+   set forging: ec2-3-18-101-112.us-east-2.compute.amazonaws.com Forging status:true
+   set forging: ec2-18-223-188-61.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: ec2-18-191-154-52.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: 172.18.90.83 Forging status:false
+Host: 172.18.90.83 {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":true}]}
+completed
+Host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Get consensus servers: 
+host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com consensus: 100
+host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com consensus: 100
+host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com consensus: 100
+host: 172.18.90.83 consensus: 100
+Forging: 
+   set forging: ec2-3-18-101-112.us-east-2.compute.amazonaws.com Forging status:true
+   set forging: ec2-18-223-188-61.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: ec2-18-191-154-52.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: 172.18.90.83 Forging status:false
+Host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":true}]}
+completed
+Host: 172.18.90.83 {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Get consensus servers: 
+host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com consensus: 100
+host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com consensus: 95
+host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com consensus: 100
+host: 172.18.90.83 consensus: 100
+Forging: 
+   set forging: ec2-3-18-101-112.us-east-2.compute.amazonaws.com Forging status:true
+   set forging: ec2-18-223-188-61.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: ec2-18-191-154-52.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: 172.18.90.83 Forging status:false
+Host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":true}]}
+completed
+Host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: 172.18.90.83 {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Get consensus servers: 
+host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com consensus: 100
+host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com consensus: 100
+host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com consensus: 100
+host: 172.18.90.83 consensus: 100
+Forging: 
+   set forging: ec2-3-18-101-112.us-east-2.compute.amazonaws.com Forging status:true
+   set forging: ec2-18-223-188-61.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: ec2-18-191-154-52.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: 172.18.90.83 Forging status:false
+Host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":true}]}
+completed
+Host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: 172.18.90.83 {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Get consensus servers: 
+host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com consensus: 95
+host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com consensus: 95
+host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com consensus: 100
+host: 172.18.90.83 consensus: 100
+Forging: 
+   set forging: ec2-3-18-101-112.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: ec2-18-223-188-61.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: ec2-18-191-154-52.us-east-2.compute.amazonaws.com Forging status:true
+   set forging: 172.18.90.83 Forging status:false
+Host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":true}]}
+completed
+Host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: 172.18.90.83 {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Get consensus servers: 
+host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com consensus: 95
+host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com consensus: 100
+host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com consensus: 100
+host: 172.18.90.83 consensus: 100
+Forging: 
+   set forging: ec2-3-18-101-112.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: ec2-18-223-188-61.us-east-2.compute.amazonaws.com Forging status:true
+   set forging: ec2-18-191-154-52.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: 172.18.90.83 Forging status:false
+Host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":true}]}
+completed
+Host: 172.18.90.83 {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Get consensus servers: 
+host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com consensus: 89
+host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com consensus: 94
+host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com consensus: 94
+host: 172.18.90.83 consensus: 95
+Forging: 
+   set forging: ec2-3-18-101-112.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: ec2-18-223-188-61.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: ec2-18-191-154-52.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: 172.18.90.83 Forging status:true
+Host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: 172.18.90.83 {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":true}]}
+completed
+Get consensus servers: 
+host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com consensus: 94
+host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com consensus: 100
+host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com consensus: 100
+host: 172.18.90.83 consensus: 100
+Forging: 
+   set forging: ec2-3-18-101-112.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: ec2-18-223-188-61.us-east-2.compute.amazonaws.com Forging status:true
+   set forging: ec2-18-191-154-52.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: 172.18.90.83 Forging status:false
+Host: 172.18.90.83 {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":true}]}
+completed
+Get consensus servers: 
+host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com consensus: 84
+host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com consensus: 95
+host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com consensus: 89
+host: 172.18.90.83 consensus: 100
+Forging: 
+   set forging: ec2-3-18-101-112.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: ec2-18-223-188-61.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: ec2-18-191-154-52.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: 172.18.90.83 Forging status:true
+Host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: 172.18.90.83 {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":true}]}
+completed
+Host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Get consensus servers: 
+host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com consensus: 90
+host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com consensus: 95
+host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com consensus: 100
+host: 172.18.90.83 consensus: 95
+Forging: 
+   set forging: ec2-3-18-101-112.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: ec2-18-223-188-61.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: ec2-18-191-154-52.us-east-2.compute.amazonaws.com Forging status:true
+   set forging: 172.18.90.83 Forging status:false
+Host: 172.18.90.83 {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":true}]}
+completed
+Get consensus servers: 
+host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com consensus: 95
+host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com consensus: 95
+host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com consensus: 100
+host: 172.18.90.83 consensus: 100
+Forging: 
+   set forging: ec2-3-18-101-112.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: ec2-18-223-188-61.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: ec2-18-191-154-52.us-east-2.compute.amazonaws.com Forging status:true
+   set forging: 172.18.90.83 Forging status:false
+Host: 172.18.90.83 {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":true}]}
+completed
+Get consensus servers: 
+host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com consensus: 100
+host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com consensus: 95
+host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com consensus: 100
+host: 172.18.90.83 consensus: 100
+Forging: 
+   set forging: ec2-3-18-101-112.us-east-2.compute.amazonaws.com Forging status:true
+   set forging: ec2-18-223-188-61.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: ec2-18-191-154-52.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: 172.18.90.83 Forging status:false
+Host: 172.18.90.83 {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":true}]}
+completed
+Host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Get consensus servers: 
+host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com consensus: 94
+host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com consensus: 89
+host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com consensus: 100
+host: 172.18.90.83 consensus: 100
+Forging: 
+   set forging: ec2-3-18-101-112.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: ec2-18-223-188-61.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: ec2-18-191-154-52.us-east-2.compute.amazonaws.com Forging status:true
+   set forging: 172.18.90.83 Forging status:false
+Host: 172.18.90.83 {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":true}]}
+completed
+Get consensus servers: 
+host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com consensus: 100
+host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com consensus: 95
+host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com consensus: 100
+host: 172.18.90.83 consensus: 100
+Forging: 
+   set forging: ec2-3-18-101-112.us-east-2.compute.amazonaws.com Forging status:true
+   set forging: ec2-18-223-188-61.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: ec2-18-191-154-52.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: 172.18.90.83 Forging status:false
+Host: 172.18.90.83 {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":true}]}
+completed
+Host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Get consensus servers: 
+host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com consensus: 100
+host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com consensus: 95
+host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com consensus: 100
+host: 172.18.90.83 consensus: 95
+Forging: 
+   set forging: ec2-3-18-101-112.us-east-2.compute.amazonaws.com Forging status:true
+   set forging: ec2-18-223-188-61.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: ec2-18-191-154-52.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: 172.18.90.83 Forging status:false
+Host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":true}]}
+completed
+Host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: 172.18.90.83 {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Get consensus servers: 
+host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com consensus: 100
+host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com consensus: 95
+host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com consensus: 100
+host: 172.18.90.83 consensus: 100
+Forging: 
+   set forging: ec2-3-18-101-112.us-east-2.compute.amazonaws.com Forging status:true
+   set forging: ec2-18-223-188-61.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: ec2-18-191-154-52.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: 172.18.90.83 Forging status:false
+Host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":true}]}
+completed
+Host: 172.18.90.83 {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Get consensus servers: 
+host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com consensus: 95
+host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com consensus: 94
+host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com consensus: 100
+host: 172.18.90.83 consensus: 100
+Forging: 
+   set forging: ec2-3-18-101-112.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: ec2-18-223-188-61.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: ec2-18-191-154-52.us-east-2.compute.amazonaws.com Forging status:true
+   set forging: 172.18.90.83 Forging status:false
+Host: 172.18.90.83 {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":true}]}
+completed
+Host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Get consensus servers: 
+host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com consensus: 100
+host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com consensus: 89
+host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com consensus: 89
+host: 172.18.90.83 consensus: 100
+Forging: 
+   set forging: ec2-3-18-101-112.us-east-2.compute.amazonaws.com Forging status:true
+   set forging: ec2-18-223-188-61.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: ec2-18-191-154-52.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: 172.18.90.83 Forging status:false
+Host: 172.18.90.83 {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":true}]}
+completed
+Host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Get consensus servers: 
+host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com consensus: 95
+host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com consensus: 95
+host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com consensus: 94
+host: 172.18.90.83 consensus: 100
+Forging: 
+   set forging: ec2-3-18-101-112.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: ec2-18-223-188-61.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: ec2-18-191-154-52.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: 172.18.90.83 Forging status:true
+Host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: 172.18.90.83 {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":true}]}
+completed
+Host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Get consensus servers: 
+host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com consensus: 100
+host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com consensus: 85
+host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com consensus: 100
+host: 172.18.90.83 consensus: 100
+Forging: 
+   set forging: ec2-3-18-101-112.us-east-2.compute.amazonaws.com Forging status:true
+   set forging: ec2-18-223-188-61.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: ec2-18-191-154-52.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: 172.18.90.83 Forging status:false
+Host: 172.18.90.83 {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":true}]}
+completed
+Host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Get consensus servers: 
+host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com consensus: 100
+host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com consensus: 95
+host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com consensus: 94
+host: 172.18.90.83 consensus: 100
+Forging: 
+   set forging: ec2-3-18-101-112.us-east-2.compute.amazonaws.com Forging status:true
+   set forging: ec2-18-223-188-61.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: ec2-18-191-154-52.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: 172.18.90.83 Forging status:false
+Host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":true}]}
+completed
+Host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: 172.18.90.83 {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Get consensus servers: 
+host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com consensus: 100
+host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com consensus: 95
+host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com consensus: 89
+host: 172.18.90.83 consensus: 100
+Forging: 
+   set forging: ec2-3-18-101-112.us-east-2.compute.amazonaws.com Forging status:true
+   set forging: ec2-18-223-188-61.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: ec2-18-191-154-52.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: 172.18.90.83 Forging status:false
+Host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":true}]}
+completed
+Host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: 172.18.90.83 {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Get consensus servers: 
+host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com consensus: 100
+host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com consensus: 95
+host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com consensus: 100
+host: 172.18.90.83 consensus: 100
+Forging: 
+   set forging: ec2-3-18-101-112.us-east-2.compute.amazonaws.com Forging status:true
+   set forging: ec2-18-223-188-61.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: ec2-18-191-154-52.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: 172.18.90.83 Forging status:false
+Host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":true}]}
+completed
+Host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: 172.18.90.83 {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Get consensus servers: 
+host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com consensus: 100
+host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com consensus: 95
+host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com consensus: 95
+host: 172.18.90.83 consensus: 100
+Forging: 
+   set forging: ec2-3-18-101-112.us-east-2.compute.amazonaws.com Forging status:true
+   set forging: ec2-18-223-188-61.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: ec2-18-191-154-52.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: 172.18.90.83 Forging status:false
+Host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":true}]}
+completed
+Host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: 172.18.90.83 {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Get consensus servers: 
+host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com consensus: 95
+host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com consensus: 95
+host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com consensus: 95
+host: 172.18.90.83 consensus: 90
+Forging: 
+   set forging: ec2-3-18-101-112.us-east-2.compute.amazonaws.com Forging status:true
+   set forging: ec2-18-223-188-61.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: ec2-18-191-154-52.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: 172.18.90.83 Forging status:false
+Host: 172.18.90.83 {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":true}]}
+completed
+Host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Get consensus servers: 
+host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com consensus: 95
+host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com consensus: 95
+host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com consensus: 100
+host: 172.18.90.83 consensus: 100
+Forging: 
+   set forging: ec2-3-18-101-112.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: ec2-18-223-188-61.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: ec2-18-191-154-52.us-east-2.compute.amazonaws.com Forging status:true
+   set forging: 172.18.90.83 Forging status:false
+Host: 172.18.90.83 {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":true}]}
+completed
+Host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Get consensus servers: 
+host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com consensus: 100
+host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com consensus: 95
+host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com consensus: 100
+host: 172.18.90.83 consensus: 100
+Forging: 
+   set forging: ec2-3-18-101-112.us-east-2.compute.amazonaws.com Forging status:true
+   set forging: ec2-18-223-188-61.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: ec2-18-191-154-52.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: 172.18.90.83 Forging status:false
+Host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":true}]}
+completed
+Host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: 172.18.90.83 {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Get consensus servers: 
+host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com consensus: 100
+host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com consensus: 95
+host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com consensus: 100
+host: 172.18.90.83 consensus: 100
+Forging: 
+   set forging: ec2-3-18-101-112.us-east-2.compute.amazonaws.com Forging status:true
+   set forging: ec2-18-223-188-61.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: ec2-18-191-154-52.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: 172.18.90.83 Forging status:false
+Host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":true}]}
+completed
+Host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: 172.18.90.83 {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Get consensus servers: 
+host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com consensus: 95
+host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com consensus: 90
+host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com consensus: 95
+host: 172.18.90.83 consensus: 100
+Forging: 
+   set forging: ec2-3-18-101-112.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: ec2-18-223-188-61.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: ec2-18-191-154-52.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: 172.18.90.83 Forging status:true
+Host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: 172.18.90.83 {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":true}]}
+completed
+Get consensus servers: 
+host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com consensus: 94
+host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com consensus: 95
+host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com consensus: 89
+host: 172.18.90.83 consensus: 100
+Forging: 
+   set forging: ec2-3-18-101-112.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: ec2-18-223-188-61.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: ec2-18-191-154-52.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: 172.18.90.83 Forging status:true
+Host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: 172.18.90.83 {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":true}]}
+completed
+Get consensus servers: 
+host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com consensus: 95
+host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com consensus: 90
+host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com consensus: 100
+host: 172.18.90.83 consensus: 95
+Forging: 
+   set forging: ec2-3-18-101-112.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: ec2-18-223-188-61.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: ec2-18-191-154-52.us-east-2.compute.amazonaws.com Forging status:true
+   set forging: 172.18.90.83 Forging status:false
+Host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":true}]}
+completed
+Host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: 172.18.90.83 {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Get consensus servers: 
+host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com consensus: 94
+host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com consensus: 90
+host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com consensus: 100
+host: 172.18.90.83 consensus: 100
+Forging: 
+   set forging: ec2-3-18-101-112.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: ec2-18-223-188-61.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: ec2-18-191-154-52.us-east-2.compute.amazonaws.com Forging status:true
+   set forging: 172.18.90.83 Forging status:false
+Host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: 172.18.90.83 {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":true}]}
+completed
+Get consensus servers: 
+host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com consensus: 100
+host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com consensus: 95
+host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com consensus: 100
+host: 172.18.90.83 consensus: 100
+Forging: 
+   set forging: ec2-3-18-101-112.us-east-2.compute.amazonaws.com Forging status:true
+   set forging: ec2-18-223-188-61.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: ec2-18-191-154-52.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: 172.18.90.83 Forging status:false
+Host: 172.18.90.83 {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":true}]}
+completed
+Host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Get consensus servers: 
+host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com consensus: 100
+host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com consensus: 89
+host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com consensus: 95
+host: 172.18.90.83 consensus: 100
+Forging: 
+   set forging: ec2-3-18-101-112.us-east-2.compute.amazonaws.com Forging status:true
+   set forging: ec2-18-223-188-61.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: ec2-18-191-154-52.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: 172.18.90.83 Forging status:false
+Host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":true}]}
+completed
+Host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: 172.18.90.83 {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Get consensus servers: 
+host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com consensus: 100
+host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com consensus: 89
+host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com consensus: 100
+host: 172.18.90.83 consensus: 100
+Forging: 
+   set forging: ec2-3-18-101-112.us-east-2.compute.amazonaws.com Forging status:true
+   set forging: ec2-18-223-188-61.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: ec2-18-191-154-52.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: 172.18.90.83 Forging status:false
+Host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":true}]}
+completed
+Host: 172.18.90.83 {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Get consensus servers: 
+host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com consensus: 100
+host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com consensus: 89
+host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com consensus: 100
+host: 172.18.90.83 consensus: 100
+Forging: 
+   set forging: ec2-3-18-101-112.us-east-2.compute.amazonaws.com Forging status:true
+   set forging: ec2-18-223-188-61.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: ec2-18-191-154-52.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: 172.18.90.83 Forging status:false
+Host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":true}]}
+completed
+Host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: 172.18.90.83 {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Get consensus servers: 
+host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com consensus: 100
+host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com consensus: 94
+host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com consensus: 100
+host: 172.18.90.83 consensus: 100
+Forging: 
+   set forging: ec2-3-18-101-112.us-east-2.compute.amazonaws.com Forging status:true
+   set forging: ec2-18-223-188-61.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: ec2-18-191-154-52.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: 172.18.90.83 Forging status:false
+Host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":true}]}
+completed
+Host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: 172.18.90.83 {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Get consensus servers: 
+host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com consensus: 95
+host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com consensus: 89
+host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com consensus: 100
+host: 172.18.90.83 consensus: 100
+Forging: 
+   set forging: ec2-3-18-101-112.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: ec2-18-223-188-61.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: ec2-18-191-154-52.us-east-2.compute.amazonaws.com Forging status:true
+   set forging: 172.18.90.83 Forging status:false
+Host: 172.18.90.83 {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":true}]}
+completed
+Get consensus servers: 
+host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com consensus: 100
+host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com consensus: 94
+host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com consensus: 100
+host: 172.18.90.83 consensus: 95
+Forging: 
+   set forging: ec2-3-18-101-112.us-east-2.compute.amazonaws.com Forging status:true
+   set forging: ec2-18-223-188-61.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: ec2-18-191-154-52.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: 172.18.90.83 Forging status:false
+Host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":true}]}
+completed
+Host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: 172.18.90.83 <!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>SyntaxError: Unexpected token u in JSON at position 0<br> &nbsp; &nbsp;at JSON.parse (&lt;anonymous&gt;)<br> &nbsp; &nbsp;at setForging (/home/lisk/forger_lisk/index.js:73:17)<br> &nbsp; &nbsp;at /home/lisk/forger_lisk/index.js:24:48<br> &nbsp; &nbsp;at Layer.handle [as handle_request] (/home/lisk/forger_lisk/node_modules/express/lib/router/layer.js:95:5)<br> &nbsp; &nbsp;at next (/home/lisk/forger_lisk/node_modules/express/lib/router/route.js:137:13)<br> &nbsp; &nbsp;at Route.dispatch (/home/lisk/forger_lisk/node_modules/express/lib/router/route.js:112:3)<br> &nbsp; &nbsp;at Layer.handle [as handle_request] (/home/lisk/forger_lisk/node_modules/express/lib/router/layer.js:95:5)<br> &nbsp; &nbsp;at /home/lisk/forger_lisk/node_modules/express/lib/router/index.js:281:22<br> &nbsp; &nbsp;at Function.process_params (/home/lisk/forger_lisk/node_modules/express/lib/router/index.js:335:12)<br> &nbsp; &nbsp;at next (/home/lisk/forger_lisk/node_modules/express/lib/router/index.js:275:10)</pre>
+</body>
+</html>
+
+Get consensus servers: 
+host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com consensus: 95
+host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com consensus: 95
+host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com consensus: 100
+Forging: 
+   set forging: ec2-3-18-101-112.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: ec2-18-223-188-61.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: ec2-18-191-154-52.us-east-2.compute.amazonaws.com Forging status:true
+Server 172.18.90.83 not accessible
+Host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":true}]}
+completed
+Get consensus servers: 
+host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com consensus: 11
+host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com consensus: 89
+host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com consensus: 95
+Forging: 
+   set forging: ec2-3-18-101-112.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: ec2-18-223-188-61.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: ec2-18-191-154-52.us-east-2.compute.amazonaws.com Forging status:true
+Server 172.18.90.83 not accessible
+Host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":true}]}
+completed
+Get consensus servers: 
+host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com consensus: 95
+host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com consensus: 95
+host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com consensus: 94
+Forging: 
+   set forging: ec2-3-18-101-112.us-east-2.compute.amazonaws.com Forging status:true
+   set forging: ec2-18-223-188-61.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: ec2-18-191-154-52.us-east-2.compute.amazonaws.com Forging status:false
+Server 172.18.90.83 not accessible
+Host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":true}]}
+completed
+Host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Get consensus servers: 
+host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com consensus: 89
+host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com consensus: 100
+host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com consensus: 100
+Forging: 
+   set forging: ec2-3-18-101-112.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: ec2-18-223-188-61.us-east-2.compute.amazonaws.com Forging status:true
+   set forging: ec2-18-191-154-52.us-east-2.compute.amazonaws.com Forging status:false
+Server 172.18.90.83 not accessible
+Host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":true}]}
+completed
+Host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Get consensus servers: 
+host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com consensus: 89
+host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com consensus: 100
+host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com consensus: 100
+Forging: 
+   set forging: ec2-3-18-101-112.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: ec2-18-223-188-61.us-east-2.compute.amazonaws.com Forging status:true
+   set forging: ec2-18-191-154-52.us-east-2.compute.amazonaws.com Forging status:false
+Server 172.18.90.83 not accessible
+Host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":true}]}
+completed
+Host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Get consensus servers: 
+host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com consensus: 89
+host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com consensus: 100
+host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com consensus: 100
+Forging: 
+   set forging: ec2-3-18-101-112.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: ec2-18-223-188-61.us-east-2.compute.amazonaws.com Forging status:true
+   set forging: ec2-18-191-154-52.us-east-2.compute.amazonaws.com Forging status:false
+Server 172.18.90.83 not accessible
+Host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":true}]}
+completed
+Host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Get consensus servers: 
+host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com consensus: 89
+host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com consensus: 100
+host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com consensus: 95
+Forging: 
+   set forging: ec2-3-18-101-112.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: ec2-18-223-188-61.us-east-2.compute.amazonaws.com Forging status:true
+   set forging: ec2-18-191-154-52.us-east-2.compute.amazonaws.com Forging status:false
+Server 172.18.90.83 not accessible
+Host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":true}]}
+completed
+Host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Get consensus servers: 
+host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com consensus: 89
+host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com consensus: 100
+host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com consensus: 100
+host: 172.18.90.83 consensus: 100
+Forging: 
+   set forging: ec2-3-18-101-112.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: ec2-18-223-188-61.us-east-2.compute.amazonaws.com Forging status:true
+   set forging: ec2-18-191-154-52.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: 172.18.90.83 Forging status:false
+Host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":true}]}
+completed
+Host: 172.18.90.83 <!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>SyntaxError: Unexpected token u in JSON at position 0<br> &nbsp; &nbsp;at JSON.parse (&lt;anonymous&gt;)<br> &nbsp; &nbsp;at setForging (/home/lisk/forger_lisk/index.js:73:17)<br> &nbsp; &nbsp;at /home/lisk/forger_lisk/index.js:24:48<br> &nbsp; &nbsp;at Layer.handle [as handle_request] (/home/lisk/forger_lisk/node_modules/express/lib/router/layer.js:95:5)<br> &nbsp; &nbsp;at next (/home/lisk/forger_lisk/node_modules/express/lib/router/route.js:137:13)<br> &nbsp; &nbsp;at Route.dispatch (/home/lisk/forger_lisk/node_modules/express/lib/router/route.js:112:3)<br> &nbsp; &nbsp;at Layer.handle [as handle_request] (/home/lisk/forger_lisk/node_modules/express/lib/router/layer.js:95:5)<br> &nbsp; &nbsp;at /home/lisk/forger_lisk/node_modules/express/lib/router/index.js:281:22<br> &nbsp; &nbsp;at Function.process_params (/home/lisk/forger_lisk/node_modules/express/lib/router/index.js:335:12)<br> &nbsp; &nbsp;at next (/home/lisk/forger_lisk/node_modules/express/lib/router/index.js:275:10)</pre>
+</body>
+</html>
+
+Get consensus servers: 
+host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com consensus: 89
+host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com consensus: 95
+host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com consensus: 100
+host: 172.18.90.83 consensus: 100
+Forging: 
+   set forging: ec2-3-18-101-112.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: ec2-18-223-188-61.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: ec2-18-191-154-52.us-east-2.compute.amazonaws.com Forging status:true
+   set forging: 172.18.90.83 Forging status:false
+Host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":true}]}
+completed
+Host: 172.18.90.83 <!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>SyntaxError: Unexpected token u in JSON at position 0<br> &nbsp; &nbsp;at JSON.parse (&lt;anonymous&gt;)<br> &nbsp; &nbsp;at setForging (/home/lisk/forger_lisk/index.js:73:17)<br> &nbsp; &nbsp;at /home/lisk/forger_lisk/index.js:24:48<br> &nbsp; &nbsp;at Layer.handle [as handle_request] (/home/lisk/forger_lisk/node_modules/express/lib/router/layer.js:95:5)<br> &nbsp; &nbsp;at next (/home/lisk/forger_lisk/node_modules/express/lib/router/route.js:137:13)<br> &nbsp; &nbsp;at Route.dispatch (/home/lisk/forger_lisk/node_modules/express/lib/router/route.js:112:3)<br> &nbsp; &nbsp;at Layer.handle [as handle_request] (/home/lisk/forger_lisk/node_modules/express/lib/router/layer.js:95:5)<br> &nbsp; &nbsp;at /home/lisk/forger_lisk/node_modules/express/lib/router/index.js:281:22<br> &nbsp; &nbsp;at Function.process_params (/home/lisk/forger_lisk/node_modules/express/lib/router/index.js:335:12)<br> &nbsp; &nbsp;at next (/home/lisk/forger_lisk/node_modules/express/lib/router/index.js:275:10)</pre>
+</body>
+</html>
+
+Get consensus servers: 
+host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com consensus: 95
+host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com consensus: 100
+host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com consensus: 100
+host: 172.18.90.83 consensus: 92
+Forging: 
+   set forging: ec2-3-18-101-112.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: ec2-18-223-188-61.us-east-2.compute.amazonaws.com Forging status:true
+   set forging: ec2-18-191-154-52.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: 172.18.90.83 Forging status:false
+Host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":true}]}
+completed
+Host: 172.18.90.83 <!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>SyntaxError: Unexpected token u in JSON at position 0<br> &nbsp; &nbsp;at JSON.parse (&lt;anonymous&gt;)<br> &nbsp; &nbsp;at setForging (/home/lisk/forger_lisk/index.js:73:17)<br> &nbsp; &nbsp;at /home/lisk/forger_lisk/index.js:24:48<br> &nbsp; &nbsp;at Layer.handle [as handle_request] (/home/lisk/forger_lisk/node_modules/express/lib/router/layer.js:95:5)<br> &nbsp; &nbsp;at next (/home/lisk/forger_lisk/node_modules/express/lib/router/route.js:137:13)<br> &nbsp; &nbsp;at Route.dispatch (/home/lisk/forger_lisk/node_modules/express/lib/router/route.js:112:3)<br> &nbsp; &nbsp;at Layer.handle [as handle_request] (/home/lisk/forger_lisk/node_modules/express/lib/router/layer.js:95:5)<br> &nbsp; &nbsp;at /home/lisk/forger_lisk/node_modules/express/lib/router/index.js:281:22<br> &nbsp; &nbsp;at Function.process_params (/home/lisk/forger_lisk/node_modules/express/lib/router/index.js:335:12)<br> &nbsp; &nbsp;at next (/home/lisk/forger_lisk/node_modules/express/lib/router/index.js:275:10)</pre>
+</body>
+</html>
+
+Get consensus servers: 
+host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com consensus: 89
+host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com consensus: 100
+host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com consensus: 100
+host: 172.18.90.83 consensus: 100
+Forging: 
+   set forging: ec2-3-18-101-112.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: ec2-18-223-188-61.us-east-2.compute.amazonaws.com Forging status:true
+   set forging: ec2-18-191-154-52.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: 172.18.90.83 Forging status:false
+Host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":true}]}
+completed
+Host: 172.18.90.83 <!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>SyntaxError: Unexpected token u in JSON at position 0<br> &nbsp; &nbsp;at JSON.parse (&lt;anonymous&gt;)<br> &nbsp; &nbsp;at setForging (/home/lisk/forger_lisk/index.js:73:17)<br> &nbsp; &nbsp;at /home/lisk/forger_lisk/index.js:24:48<br> &nbsp; &nbsp;at Layer.handle [as handle_request] (/home/lisk/forger_lisk/node_modules/express/lib/router/layer.js:95:5)<br> &nbsp; &nbsp;at next (/home/lisk/forger_lisk/node_modules/express/lib/router/route.js:137:13)<br> &nbsp; &nbsp;at Route.dispatch (/home/lisk/forger_lisk/node_modules/express/lib/router/route.js:112:3)<br> &nbsp; &nbsp;at Layer.handle [as handle_request] (/home/lisk/forger_lisk/node_modules/express/lib/router/layer.js:95:5)<br> &nbsp; &nbsp;at /home/lisk/forger_lisk/node_modules/express/lib/router/index.js:281:22<br> &nbsp; &nbsp;at Function.process_params (/home/lisk/forger_lisk/node_modules/express/lib/router/index.js:335:12)<br> &nbsp; &nbsp;at next (/home/lisk/forger_lisk/node_modules/express/lib/router/index.js:275:10)</pre>
+</body>
+</html>
+
+Get consensus servers: 
+host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com consensus: 89
+host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com consensus: 100
+host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com consensus: 100
+host: 172.18.90.83 consensus: 0
+Forging: 
+   set forging: ec2-3-18-101-112.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: ec2-18-223-188-61.us-east-2.compute.amazonaws.com Forging status:true
+   set forging: ec2-18-191-154-52.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: 172.18.90.83 Forging status:false
+Host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":true}]}
+completed
+Host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: 172.18.90.83 <!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>SyntaxError: Unexpected token u in JSON at position 0<br> &nbsp; &nbsp;at JSON.parse (&lt;anonymous&gt;)<br> &nbsp; &nbsp;at setForging (/home/lisk/forger_lisk/index.js:73:17)<br> &nbsp; &nbsp;at /home/lisk/forger_lisk/index.js:24:48<br> &nbsp; &nbsp;at Layer.handle [as handle_request] (/home/lisk/forger_lisk/node_modules/express/lib/router/layer.js:95:5)<br> &nbsp; &nbsp;at next (/home/lisk/forger_lisk/node_modules/express/lib/router/route.js:137:13)<br> &nbsp; &nbsp;at Route.dispatch (/home/lisk/forger_lisk/node_modules/express/lib/router/route.js:112:3)<br> &nbsp; &nbsp;at Layer.handle [as handle_request] (/home/lisk/forger_lisk/node_modules/express/lib/router/layer.js:95:5)<br> &nbsp; &nbsp;at /home/lisk/forger_lisk/node_modules/express/lib/router/index.js:281:22<br> &nbsp; &nbsp;at Function.process_params (/home/lisk/forger_lisk/node_modules/express/lib/router/index.js:335:12)<br> &nbsp; &nbsp;at next (/home/lisk/forger_lisk/node_modules/express/lib/router/index.js:275:10)</pre>
+</body>
+</html>
+
+Get consensus servers: 
+host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com consensus: 94
+host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com consensus: 100
+host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com consensus: 100
+host: 172.18.90.83 consensus: 92
+Forging: 
+   set forging: ec2-3-18-101-112.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: ec2-18-223-188-61.us-east-2.compute.amazonaws.com Forging status:true
+   set forging: ec2-18-191-154-52.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: 172.18.90.83 Forging status:false
+Host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":true}]}
+completed
+Host: 172.18.90.83 <!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>SyntaxError: Unexpected token u in JSON at position 0<br> &nbsp; &nbsp;at JSON.parse (&lt;anonymous&gt;)<br> &nbsp; &nbsp;at setForging (/home/lisk/forger_lisk/index.js:73:17)<br> &nbsp; &nbsp;at /home/lisk/forger_lisk/index.js:24:48<br> &nbsp; &nbsp;at Layer.handle [as handle_request] (/home/lisk/forger_lisk/node_modules/express/lib/router/layer.js:95:5)<br> &nbsp; &nbsp;at next (/home/lisk/forger_lisk/node_modules/express/lib/router/route.js:137:13)<br> &nbsp; &nbsp;at Route.dispatch (/home/lisk/forger_lisk/node_modules/express/lib/router/route.js:112:3)<br> &nbsp; &nbsp;at Layer.handle [as handle_request] (/home/lisk/forger_lisk/node_modules/express/lib/router/layer.js:95:5)<br> &nbsp; &nbsp;at /home/lisk/forger_lisk/node_modules/express/lib/router/index.js:281:22<br> &nbsp; &nbsp;at Function.process_params (/home/lisk/forger_lisk/node_modules/express/lib/router/index.js:335:12)<br> &nbsp; &nbsp;at next (/home/lisk/forger_lisk/node_modules/express/lib/router/index.js:275:10)</pre>
+</body>
+</html>
+
+Get consensus servers: 
+host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com consensus: 100
+host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com consensus: 100
+host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com consensus: 100
+host: 172.18.90.83 consensus: 100
+Forging: 
+   set forging: ec2-3-18-101-112.us-east-2.compute.amazonaws.com Forging status:true
+   set forging: ec2-18-223-188-61.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: ec2-18-191-154-52.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: 172.18.90.83 Forging status:false
+Host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":true}]}
+completed
+Host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: 172.18.90.83 {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Get consensus servers: 
+host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com consensus: 100
+host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com consensus: 100
+host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com consensus: 100
+host: 172.18.90.83 consensus: 100
+Forging: 
+   set forging: ec2-3-18-101-112.us-east-2.compute.amazonaws.com Forging status:true
+   set forging: ec2-18-223-188-61.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: ec2-18-191-154-52.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: 172.18.90.83 Forging status:false
+Host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":true}]}
+completed
+Host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: 172.18.90.83 {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Get consensus servers: 
+host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com consensus: 100
+host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com consensus: 100
+host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com consensus: 100
+host: 172.18.90.83 consensus: 100
+Forging: 
+   set forging: ec2-3-18-101-112.us-east-2.compute.amazonaws.com Forging status:true
+   set forging: ec2-18-223-188-61.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: ec2-18-191-154-52.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: 172.18.90.83 Forging status:false
+Host: 172.18.90.83 {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":true}]}
+completed
+Host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Get consensus servers: 
+host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com consensus: 89
+host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com consensus: 95
+host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com consensus: 95
+host: 172.18.90.83 consensus: 93
+Forging: 
+   set forging: ec2-3-18-101-112.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: ec2-18-223-188-61.us-east-2.compute.amazonaws.com Forging status:true
+   set forging: ec2-18-191-154-52.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: 172.18.90.83 Forging status:false
+Host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: 172.18.90.83 {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":true}]}
+completed
+Get consensus servers: 
+host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com consensus: 100
+host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com consensus: 100
+host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com consensus: 100
+host: 172.18.90.83 consensus: 100
+Forging: 
+   set forging: ec2-3-18-101-112.us-east-2.compute.amazonaws.com Forging status:true
+   set forging: ec2-18-223-188-61.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: ec2-18-191-154-52.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: 172.18.90.83 Forging status:false
+Host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":true}]}
+completed
+Host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: 172.18.90.83 {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Get consensus servers: 
+host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com consensus: 100
+host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com consensus: 100
+host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com consensus: 100
+host: 172.18.90.83 consensus: 100
+Forging: 
+   set forging: ec2-3-18-101-112.us-east-2.compute.amazonaws.com Forging status:true
+   set forging: ec2-18-223-188-61.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: ec2-18-191-154-52.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: 172.18.90.83 Forging status:false
+Host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":true}]}
+completed
+Host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: 172.18.90.83 {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Get consensus servers: 
+host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com consensus: 100
+host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com consensus: 100
+host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com consensus: 95
+host: 172.18.90.83 consensus: 100
+Forging: 
+   set forging: ec2-3-18-101-112.us-east-2.compute.amazonaws.com Forging status:true
+   set forging: ec2-18-223-188-61.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: ec2-18-191-154-52.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: 172.18.90.83 Forging status:false
+Host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":true}]}
+completed
+Host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: 172.18.90.83 {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Get consensus servers: 
+host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com consensus: 100
+host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com consensus: 100
+host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com consensus: 95
+host: 172.18.90.83 consensus: 100
+Forging: 
+   set forging: ec2-3-18-101-112.us-east-2.compute.amazonaws.com Forging status:true
+   set forging: ec2-18-223-188-61.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: ec2-18-191-154-52.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: 172.18.90.83 Forging status:false
+Host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":true}]}
+completed
+Host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: 172.18.90.83 {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Get consensus servers: 
+host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com consensus: 90
+host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com consensus: 100
+host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com consensus: 89
+host: 172.18.90.83 consensus: 94
+Forging: 
+   set forging: ec2-3-18-101-112.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: ec2-18-223-188-61.us-east-2.compute.amazonaws.com Forging status:true
+   set forging: ec2-18-191-154-52.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: 172.18.90.83 Forging status:false
+Host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":true}]}
+completed
+Host: 172.18.90.83 {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Get consensus servers: 
+host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com consensus: 100
+host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com consensus: 100
+host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com consensus: 100
+host: 172.18.90.83 consensus: 100
+Forging: 
+   set forging: ec2-3-18-101-112.us-east-2.compute.amazonaws.com Forging status:true
+   set forging: ec2-18-223-188-61.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: ec2-18-191-154-52.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: 172.18.90.83 Forging status:false
+Host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":true}]}
+completed
+Host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: 172.18.90.83 {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Get consensus servers: 
+host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com consensus: 100
+host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com consensus: 95
+host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com consensus: 100
+host: 172.18.90.83 consensus: 100
+Forging: 
+   set forging: ec2-3-18-101-112.us-east-2.compute.amazonaws.com Forging status:true
+   set forging: ec2-18-223-188-61.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: ec2-18-191-154-52.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: 172.18.90.83 Forging status:false
+Host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":true}]}
+completed
+Host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: 172.18.90.83 {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Get consensus servers: 
+host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com consensus: 89
+host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com consensus: 95
+host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com consensus: 100
+host: 172.18.90.83 consensus: 100
+Forging: 
+   set forging: ec2-3-18-101-112.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: ec2-18-223-188-61.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: ec2-18-191-154-52.us-east-2.compute.amazonaws.com Forging status:true
+   set forging: 172.18.90.83 Forging status:false
+Host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":true}]}
+completed
+Host: 172.18.90.83 {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Get consensus servers: 
+host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com consensus: 100
+host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com consensus: 95
+host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com consensus: 100
+host: 172.18.90.83 consensus: 100
+Forging: 
+   set forging: ec2-3-18-101-112.us-east-2.compute.amazonaws.com Forging status:true
+   set forging: ec2-18-223-188-61.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: ec2-18-191-154-52.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: 172.18.90.83 Forging status:false
+Host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":true}]}
+completed
+Host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: 172.18.90.83 {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Get consensus servers: 
+host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com consensus: 95
+host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com consensus: 100
+host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com consensus: 100
+host: 172.18.90.83 consensus: 100
+Forging: 
+   set forging: ec2-3-18-101-112.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: ec2-18-223-188-61.us-east-2.compute.amazonaws.com Forging status:true
+   set forging: ec2-18-191-154-52.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: 172.18.90.83 Forging status:false
+Host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: 172.18.90.83 {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":true}]}
+completed
+Get consensus servers: 
+host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com consensus: 89
+host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com consensus: 100
+host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com consensus: 95
+host: 172.18.90.83 consensus: 100
+Forging: 
+   set forging: ec2-3-18-101-112.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: ec2-18-223-188-61.us-east-2.compute.amazonaws.com Forging status:true
+   set forging: ec2-18-191-154-52.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: 172.18.90.83 Forging status:false
+Host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":true}]}
+completed
+Host: 172.18.90.83 {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Get consensus servers: 
+host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com consensus: 100
+host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com consensus: 100
+host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com consensus: 100
+host: 172.18.90.83 consensus: 100
+Forging: 
+   set forging: ec2-3-18-101-112.us-east-2.compute.amazonaws.com Forging status:true
+   set forging: ec2-18-223-188-61.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: ec2-18-191-154-52.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: 172.18.90.83 Forging status:false
+Host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":true}]}
+completed
+Host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: 172.18.90.83 {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Get consensus servers: 
+host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com consensus: 100
+host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com consensus: 100
+host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com consensus: 100
+host: 172.18.90.83 consensus: 100
+Forging: 
+   set forging: ec2-3-18-101-112.us-east-2.compute.amazonaws.com Forging status:true
+   set forging: ec2-18-223-188-61.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: ec2-18-191-154-52.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: 172.18.90.83 Forging status:false
+Host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":true}]}
+completed
+Host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: 172.18.90.83 {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Get consensus servers: 
+host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com consensus: 95
+host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com consensus: 100
+host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com consensus: 100
+host: 172.18.90.83 consensus: 100
+Forging: 
+   set forging: ec2-3-18-101-112.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: ec2-18-223-188-61.us-east-2.compute.amazonaws.com Forging status:true
+   set forging: ec2-18-191-154-52.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: 172.18.90.83 Forging status:false
+Host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":true}]}
+completed
+Host: 172.18.90.83 {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Get consensus servers: 
+host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com consensus: 90
+host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com consensus: 100
+host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com consensus: 100
+host: 172.18.90.83 consensus: 100
+Forging: 
+   set forging: ec2-3-18-101-112.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: ec2-18-223-188-61.us-east-2.compute.amazonaws.com Forging status:true
+   set forging: ec2-18-191-154-52.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: 172.18.90.83 Forging status:false
+Host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":true}]}
+completed
+Host: 172.18.90.83 {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Get consensus servers: 
+host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com consensus: 95
+host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com consensus: 100
+host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com consensus: 95
+host: 172.18.90.83 consensus: 100
+Forging: 
+   set forging: ec2-3-18-101-112.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: ec2-18-223-188-61.us-east-2.compute.amazonaws.com Forging status:true
+   set forging: ec2-18-191-154-52.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: 172.18.90.83 Forging status:false
+Host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":true}]}
+completed
+Host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: 172.18.90.83 {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Get consensus servers: 
+host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com consensus: 95
+host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com consensus: 100
+host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com consensus: 95
+host: 172.18.90.83 consensus: 94
+Forging: 
+   set forging: ec2-3-18-101-112.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: ec2-18-223-188-61.us-east-2.compute.amazonaws.com Forging status:true
+   set forging: ec2-18-191-154-52.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: 172.18.90.83 Forging status:false
+Host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":true}]}
+completed
+Host: 172.18.90.83 {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Get consensus servers: 
+host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com consensus: 95
+host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com consensus: 100
+host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com consensus: 100
+host: 172.18.90.83 consensus: 100
+Forging: 
+   set forging: ec2-3-18-101-112.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: ec2-18-223-188-61.us-east-2.compute.amazonaws.com Forging status:true
+   set forging: ec2-18-191-154-52.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: 172.18.90.83 Forging status:false
+Host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":true}]}
+completed
+Host: 172.18.90.83 {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Get consensus servers: 
+host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com consensus: 94
+host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com consensus: 95
+host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com consensus: 100
+host: 172.18.90.83 consensus: 100
+Forging: 
+   set forging: ec2-3-18-101-112.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: ec2-18-223-188-61.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: ec2-18-191-154-52.us-east-2.compute.amazonaws.com Forging status:true
+   set forging: 172.18.90.83 Forging status:false
+Host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":true}]}
+completed
+Host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: 172.18.90.83 {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Get consensus servers: 
+host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com consensus: 95
+host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com consensus: 95
+host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com consensus: 100
+host: 172.18.90.83 consensus: 100
+Forging: 
+   set forging: ec2-3-18-101-112.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: ec2-18-223-188-61.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: ec2-18-191-154-52.us-east-2.compute.amazonaws.com Forging status:true
+   set forging: 172.18.90.83 Forging status:false
+Host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":true}]}
+completed
+Host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: 172.18.90.83 {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Get consensus servers: 
+host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com consensus: 83
+host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com consensus: 95
+host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com consensus: 100
+host: 172.18.90.83 consensus: 95
+Forging: 
+   set forging: ec2-3-18-101-112.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: ec2-18-223-188-61.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: ec2-18-191-154-52.us-east-2.compute.amazonaws.com Forging status:true
+   set forging: 172.18.90.83 Forging status:false
+Host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":true}]}
+completed
+Host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: 172.18.90.83 {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Get consensus servers: 
+host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com consensus: 94
+host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com consensus: 95
+host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com consensus: 95
+host: 172.18.90.83 consensus: 100
+Forging: 
+   set forging: ec2-3-18-101-112.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: ec2-18-223-188-61.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: ec2-18-191-154-52.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: 172.18.90.83 Forging status:true
+Host: 172.18.90.83 {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":true}]}
+completed
+Host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Get consensus servers: 
+host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com consensus: 82
+host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com consensus: 95
+host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com consensus: 100
+host: 172.18.90.83 consensus: 100
+Forging: 
+   set forging: ec2-3-18-101-112.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: ec2-18-223-188-61.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: ec2-18-191-154-52.us-east-2.compute.amazonaws.com Forging status:true
+   set forging: 172.18.90.83 Forging status:false
+Host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":true}]}
+completed
+Host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: 172.18.90.83 {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Get consensus servers: 
+host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com consensus: 94
+host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com consensus: 83
+host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com consensus: 90
+host: 172.18.90.83 consensus: 100
+Forging: 
+   set forging: ec2-3-18-101-112.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: ec2-18-223-188-61.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: ec2-18-191-154-52.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: 172.18.90.83 Forging status:true
+Host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: 172.18.90.83 {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":true}]}
+completed
+Host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Get consensus servers: 
+host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com consensus: 94
+host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com consensus: 100
+host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com consensus: 100
+host: 172.18.90.83 consensus: 95
+Forging: 
+   set forging: ec2-3-18-101-112.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: ec2-18-223-188-61.us-east-2.compute.amazonaws.com Forging status:true
+   set forging: ec2-18-191-154-52.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: 172.18.90.83 Forging status:false
+Host: 172.18.90.83 {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":true}]}
+completed
+Get consensus servers: 
+host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com consensus: 94
+host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com consensus: 100
+host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com consensus: 100
+host: 172.18.90.83 consensus: 100
+Forging: 
+   set forging: ec2-3-18-101-112.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: ec2-18-223-188-61.us-east-2.compute.amazonaws.com Forging status:true
+   set forging: ec2-18-191-154-52.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: 172.18.90.83 Forging status:false
+Host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":true}]}
+completed
+Host: 172.18.90.83 {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Get consensus servers: 
+host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com consensus: 95
+host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com consensus: 100
+host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com consensus: 100
+host: 172.18.90.83 consensus: 100
+Forging: 
+   set forging: ec2-3-18-101-112.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: ec2-18-223-188-61.us-east-2.compute.amazonaws.com Forging status:true
+   set forging: ec2-18-191-154-52.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: 172.18.90.83 Forging status:false
+Host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: 172.18.90.83 {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":true}]}
+completed
+Get consensus servers: 
+host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com consensus: 95
+host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com consensus: 95
+host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com consensus: 100
+host: 172.18.90.83 consensus: 100
+Forging: 
+   set forging: ec2-3-18-101-112.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: ec2-18-223-188-61.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: ec2-18-191-154-52.us-east-2.compute.amazonaws.com Forging status:true
+   set forging: 172.18.90.83 Forging status:false
+Host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: 172.18.90.83 {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":true}]}
+completed
+Get consensus servers: 
+host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com consensus: 95
+host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com consensus: 100
+host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com consensus: 100
+host: 172.18.90.83 consensus: 100
+Forging: 
+   set forging: ec2-3-18-101-112.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: ec2-18-223-188-61.us-east-2.compute.amazonaws.com Forging status:true
+   set forging: ec2-18-191-154-52.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: 172.18.90.83 Forging status:false
+Host: 172.18.90.83 {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":true}]}
+completed
+Get consensus servers: 
+host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com consensus: 95
+host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com consensus: 100
+host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com consensus: 100
+host: 172.18.90.83 consensus: 100
+Forging: 
+   set forging: ec2-3-18-101-112.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: ec2-18-223-188-61.us-east-2.compute.amazonaws.com Forging status:true
+   set forging: ec2-18-191-154-52.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: 172.18.90.83 Forging status:false
+Host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: 172.18.90.83 {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":true}]}
+completed
+Get consensus servers: 
+host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com consensus: 95
+host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com consensus: 100
+host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com consensus: 100
+host: 172.18.90.83 consensus: 100
+Forging: 
+   set forging: ec2-3-18-101-112.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: ec2-18-223-188-61.us-east-2.compute.amazonaws.com Forging status:true
+   set forging: ec2-18-191-154-52.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: 172.18.90.83 Forging status:false
+Host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: 172.18.90.83 {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":true}]}
+completed
+Get consensus servers: 
+host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com consensus: 90
+host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com consensus: 100
+host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com consensus: 100
+host: 172.18.90.83 consensus: 100
+Forging: 
+   set forging: ec2-3-18-101-112.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: ec2-18-223-188-61.us-east-2.compute.amazonaws.com Forging status:true
+   set forging: ec2-18-191-154-52.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: 172.18.90.83 Forging status:false
+Host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":true}]}
+completed
+Host: 172.18.90.83 {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Get consensus servers: 
+host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com consensus: 95
+host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com consensus: 100
+host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com consensus: 100
+host: 172.18.90.83 consensus: 100
+Forging: 
+   set forging: ec2-3-18-101-112.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: ec2-18-223-188-61.us-east-2.compute.amazonaws.com Forging status:true
+   set forging: ec2-18-191-154-52.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: 172.18.90.83 Forging status:false
+Host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":true}]}
+completed
+Host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: 172.18.90.83 {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Get consensus servers: 
+host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com consensus: 90
+host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com consensus: 89
+host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com consensus: 95
+host: 172.18.90.83 consensus: 100
+Forging: 
+   set forging: ec2-3-18-101-112.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: ec2-18-223-188-61.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: ec2-18-191-154-52.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: 172.18.90.83 Forging status:true
+Host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: 172.18.90.83 <!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>SyntaxError: Unexpected token u in JSON at position 0<br> &nbsp; &nbsp;at JSON.parse (&lt;anonymous&gt;)<br> &nbsp; &nbsp;at setForging (/home/lisk/forger_lisk/index.js:73:17)<br> &nbsp; &nbsp;at /home/lisk/forger_lisk/index.js:24:48<br> &nbsp; &nbsp;at Layer.handle [as handle_request] (/home/lisk/forger_lisk/node_modules/express/lib/router/layer.js:95:5)<br> &nbsp; &nbsp;at next (/home/lisk/forger_lisk/node_modules/express/lib/router/route.js:137:13)<br> &nbsp; &nbsp;at Route.dispatch (/home/lisk/forger_lisk/node_modules/express/lib/router/route.js:112:3)<br> &nbsp; &nbsp;at Layer.handle [as handle_request] (/home/lisk/forger_lisk/node_modules/express/lib/router/layer.js:95:5)<br> &nbsp; &nbsp;at /home/lisk/forger_lisk/node_modules/express/lib/router/index.js:281:22<br> &nbsp; &nbsp;at Function.process_params (/home/lisk/forger_lisk/node_modules/express/lib/router/index.js:335:12)<br> &nbsp; &nbsp;at next (/home/lisk/forger_lisk/node_modules/express/lib/router/index.js:275:10)</pre>
+</body>
+</html>
+
+Get consensus servers: 
+host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com consensus: 95
+host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com consensus: 100
+host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com consensus: 100
+host: 172.18.90.83 consensus: 0
+Forging: 
+   set forging: ec2-3-18-101-112.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: ec2-18-223-188-61.us-east-2.compute.amazonaws.com Forging status:true
+   set forging: ec2-18-191-154-52.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: 172.18.90.83 Forging status:false
+Host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":true}]}
+completed
+Host: 172.18.90.83 <!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>SyntaxError: Unexpected token u in JSON at position 0<br> &nbsp; &nbsp;at JSON.parse (&lt;anonymous&gt;)<br> &nbsp; &nbsp;at setForging (/home/lisk/forger_lisk/index.js:73:17)<br> &nbsp; &nbsp;at /home/lisk/forger_lisk/index.js:24:48<br> &nbsp; &nbsp;at Layer.handle [as handle_request] (/home/lisk/forger_lisk/node_modules/express/lib/router/layer.js:95:5)<br> &nbsp; &nbsp;at next (/home/lisk/forger_lisk/node_modules/express/lib/router/route.js:137:13)<br> &nbsp; &nbsp;at Route.dispatch (/home/lisk/forger_lisk/node_modules/express/lib/router/route.js:112:3)<br> &nbsp; &nbsp;at Layer.handle [as handle_request] (/home/lisk/forger_lisk/node_modules/express/lib/router/layer.js:95:5)<br> &nbsp; &nbsp;at /home/lisk/forger_lisk/node_modules/express/lib/router/index.js:281:22<br> &nbsp; &nbsp;at Function.process_params (/home/lisk/forger_lisk/node_modules/express/lib/router/index.js:335:12)<br> &nbsp; &nbsp;at next (/home/lisk/forger_lisk/node_modules/express/lib/router/index.js:275:10)</pre>
+</body>
+</html>
+
+Get consensus servers: 
+host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com consensus: 95
+host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com consensus: 95
+host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com consensus: 100
+host: 172.18.90.83 consensus: 0
+Forging: 
+   set forging: ec2-3-18-101-112.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: ec2-18-223-188-61.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: ec2-18-191-154-52.us-east-2.compute.amazonaws.com Forging status:true
+   set forging: 172.18.90.83 Forging status:false
+Host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":true}]}
+completed
+Host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: 172.18.90.83 <!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>SyntaxError: Unexpected token u in JSON at position 0<br> &nbsp; &nbsp;at JSON.parse (&lt;anonymous&gt;)<br> &nbsp; &nbsp;at setForging (/home/lisk/forger_lisk/index.js:73:17)<br> &nbsp; &nbsp;at /home/lisk/forger_lisk/index.js:24:48<br> &nbsp; &nbsp;at Layer.handle [as handle_request] (/home/lisk/forger_lisk/node_modules/express/lib/router/layer.js:95:5)<br> &nbsp; &nbsp;at next (/home/lisk/forger_lisk/node_modules/express/lib/router/route.js:137:13)<br> &nbsp; &nbsp;at Route.dispatch (/home/lisk/forger_lisk/node_modules/express/lib/router/route.js:112:3)<br> &nbsp; &nbsp;at Layer.handle [as handle_request] (/home/lisk/forger_lisk/node_modules/express/lib/router/layer.js:95:5)<br> &nbsp; &nbsp;at /home/lisk/forger_lisk/node_modules/express/lib/router/index.js:281:22<br> &nbsp; &nbsp;at Function.process_params (/home/lisk/forger_lisk/node_modules/express/lib/router/index.js:335:12)<br> &nbsp; &nbsp;at next (/home/lisk/forger_lisk/node_modules/express/lib/router/index.js:275:10)</pre>
+</body>
+</html>
+
+Get consensus servers: 
+host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com consensus: 95
+host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com consensus: 100
+host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com consensus: 95
+host: 172.18.90.83 consensus: 11
+Forging: 
+   set forging: ec2-3-18-101-112.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: ec2-18-223-188-61.us-east-2.compute.amazonaws.com Forging status:true
+   set forging: ec2-18-191-154-52.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: 172.18.90.83 Forging status:false
+Host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":true}]}
+completed
+Host: 172.18.90.83 <!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>SyntaxError: Unexpected token u in JSON at position 0<br> &nbsp; &nbsp;at JSON.parse (&lt;anonymous&gt;)<br> &nbsp; &nbsp;at setForging (/home/lisk/forger_lisk/index.js:73:17)<br> &nbsp; &nbsp;at /home/lisk/forger_lisk/index.js:24:48<br> &nbsp; &nbsp;at Layer.handle [as handle_request] (/home/lisk/forger_lisk/node_modules/express/lib/router/layer.js:95:5)<br> &nbsp; &nbsp;at next (/home/lisk/forger_lisk/node_modules/express/lib/router/route.js:137:13)<br> &nbsp; &nbsp;at Route.dispatch (/home/lisk/forger_lisk/node_modules/express/lib/router/route.js:112:3)<br> &nbsp; &nbsp;at Layer.handle [as handle_request] (/home/lisk/forger_lisk/node_modules/express/lib/router/layer.js:95:5)<br> &nbsp; &nbsp;at /home/lisk/forger_lisk/node_modules/express/lib/router/index.js:281:22<br> &nbsp; &nbsp;at Function.process_params (/home/lisk/forger_lisk/node_modules/express/lib/router/index.js:335:12)<br> &nbsp; &nbsp;at next (/home/lisk/forger_lisk/node_modules/express/lib/router/index.js:275:10)</pre>
+</body>
+</html>
+
+Get consensus servers: 
+host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com consensus: 95
+host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com consensus: 100
+host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com consensus: 90
+host: 172.18.90.83 consensus: 0
+Forging: 
+   set forging: ec2-3-18-101-112.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: ec2-18-223-188-61.us-east-2.compute.amazonaws.com Forging status:true
+   set forging: ec2-18-191-154-52.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: 172.18.90.83 Forging status:false
+Host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":true}]}
+completed
+Host: 172.18.90.83 <!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>SyntaxError: Unexpected token u in JSON at position 0<br> &nbsp; &nbsp;at JSON.parse (&lt;anonymous&gt;)<br> &nbsp; &nbsp;at setForging (/home/lisk/forger_lisk/index.js:73:17)<br> &nbsp; &nbsp;at /home/lisk/forger_lisk/index.js:24:48<br> &nbsp; &nbsp;at Layer.handle [as handle_request] (/home/lisk/forger_lisk/node_modules/express/lib/router/layer.js:95:5)<br> &nbsp; &nbsp;at next (/home/lisk/forger_lisk/node_modules/express/lib/router/route.js:137:13)<br> &nbsp; &nbsp;at Route.dispatch (/home/lisk/forger_lisk/node_modules/express/lib/router/route.js:112:3)<br> &nbsp; &nbsp;at Layer.handle [as handle_request] (/home/lisk/forger_lisk/node_modules/express/lib/router/layer.js:95:5)<br> &nbsp; &nbsp;at /home/lisk/forger_lisk/node_modules/express/lib/router/index.js:281:22<br> &nbsp; &nbsp;at Function.process_params (/home/lisk/forger_lisk/node_modules/express/lib/router/index.js:335:12)<br> &nbsp; &nbsp;at next (/home/lisk/forger_lisk/node_modules/express/lib/router/index.js:275:10)</pre>
+</body>
+</html>
+
+Get consensus servers: 
+host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com consensus: 95
+host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com consensus: 100
+host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com consensus: 94
+host: 172.18.90.83 consensus: 0
+Forging: 
+   set forging: ec2-3-18-101-112.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: ec2-18-223-188-61.us-east-2.compute.amazonaws.com Forging status:true
+   set forging: ec2-18-191-154-52.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: 172.18.90.83 Forging status:false
+Host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":true}]}
+completed
+Host: 172.18.90.83 <!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>SyntaxError: Unexpected token u in JSON at position 0<br> &nbsp; &nbsp;at JSON.parse (&lt;anonymous&gt;)<br> &nbsp; &nbsp;at setForging (/home/lisk/forger_lisk/index.js:73:17)<br> &nbsp; &nbsp;at /home/lisk/forger_lisk/index.js:24:48<br> &nbsp; &nbsp;at Layer.handle [as handle_request] (/home/lisk/forger_lisk/node_modules/express/lib/router/layer.js:95:5)<br> &nbsp; &nbsp;at next (/home/lisk/forger_lisk/node_modules/express/lib/router/route.js:137:13)<br> &nbsp; &nbsp;at Route.dispatch (/home/lisk/forger_lisk/node_modules/express/lib/router/route.js:112:3)<br> &nbsp; &nbsp;at Layer.handle [as handle_request] (/home/lisk/forger_lisk/node_modules/express/lib/router/layer.js:95:5)<br> &nbsp; &nbsp;at /home/lisk/forger_lisk/node_modules/express/lib/router/index.js:281:22<br> &nbsp; &nbsp;at Function.process_params (/home/lisk/forger_lisk/node_modules/express/lib/router/index.js:335:12)<br> &nbsp; &nbsp;at next (/home/lisk/forger_lisk/node_modules/express/lib/router/index.js:275:10)</pre>
+</body>
+</html>
+
+Get consensus servers: 
+host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com consensus: 94
+host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com consensus: 94
+host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com consensus: 95
+Forging: 
+   set forging: ec2-3-18-101-112.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: ec2-18-223-188-61.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: ec2-18-191-154-52.us-east-2.compute.amazonaws.com Forging status:true
+Server 172.18.90.83 not accessible
+Host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":true}]}
+completed
+Host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Get consensus servers: 
+host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com consensus: 95
+host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com consensus: 100
+host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com consensus: 89
+Forging: 
+   set forging: ec2-3-18-101-112.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: ec2-18-223-188-61.us-east-2.compute.amazonaws.com Forging status:true
+   set forging: ec2-18-191-154-52.us-east-2.compute.amazonaws.com Forging status:false
+Server 172.18.90.83 not accessible
+Host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":true}]}
+completed
+Get consensus servers: 
+host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com consensus: 94
+host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com consensus: 100
+host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com consensus: 100
+host: 172.18.90.83 consensus: 0
+Forging: 
+   set forging: ec2-3-18-101-112.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: ec2-18-223-188-61.us-east-2.compute.amazonaws.com Forging status:true
+   set forging: ec2-18-191-154-52.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: 172.18.90.83 Forging status:false
+Host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":true}]}
+completed
+Host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: 172.18.90.83 <!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>SyntaxError: Unexpected token u in JSON at position 0<br> &nbsp; &nbsp;at JSON.parse (&lt;anonymous&gt;)<br> &nbsp; &nbsp;at setForging (/home/lisk/forger_lisk/index.js:73:17)<br> &nbsp; &nbsp;at /home/lisk/forger_lisk/index.js:24:48<br> &nbsp; &nbsp;at Layer.handle [as handle_request] (/home/lisk/forger_lisk/node_modules/express/lib/router/layer.js:95:5)<br> &nbsp; &nbsp;at next (/home/lisk/forger_lisk/node_modules/express/lib/router/route.js:137:13)<br> &nbsp; &nbsp;at Route.dispatch (/home/lisk/forger_lisk/node_modules/express/lib/router/route.js:112:3)<br> &nbsp; &nbsp;at Layer.handle [as handle_request] (/home/lisk/forger_lisk/node_modules/express/lib/router/layer.js:95:5)<br> &nbsp; &nbsp;at /home/lisk/forger_lisk/node_modules/express/lib/router/index.js:281:22<br> &nbsp; &nbsp;at Function.process_params (/home/lisk/forger_lisk/node_modules/express/lib/router/index.js:335:12)<br> &nbsp; &nbsp;at next (/home/lisk/forger_lisk/node_modules/express/lib/router/index.js:275:10)</pre>
+</body>
+</html>
+
+Get consensus servers: 
+host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com consensus: 95
+host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com consensus: 100
+host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com consensus: 100
+Forging: 
+   set forging: ec2-3-18-101-112.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: ec2-18-223-188-61.us-east-2.compute.amazonaws.com Forging status:true
+   set forging: ec2-18-191-154-52.us-east-2.compute.amazonaws.com Forging status:false
+Server 172.18.90.83 not accessible
+Host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":true}]}
+completed
+Get consensus servers: 
+host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com consensus: 94
+host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com consensus: 100
+host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com consensus: 95
+host: 172.18.90.83 consensus: 89
+Forging: 
+   set forging: ec2-3-18-101-112.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: ec2-18-223-188-61.us-east-2.compute.amazonaws.com Forging status:true
+   set forging: ec2-18-191-154-52.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: 172.18.90.83 Forging status:false
+Host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":true}]}
+completed
+Host: 172.18.90.83 <!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>SyntaxError: Unexpected token u in JSON at position 0<br> &nbsp; &nbsp;at JSON.parse (&lt;anonymous&gt;)<br> &nbsp; &nbsp;at setForging (/home/lisk/forger_lisk/index.js:73:17)<br> &nbsp; &nbsp;at /home/lisk/forger_lisk/index.js:24:48<br> &nbsp; &nbsp;at Layer.handle [as handle_request] (/home/lisk/forger_lisk/node_modules/express/lib/router/layer.js:95:5)<br> &nbsp; &nbsp;at next (/home/lisk/forger_lisk/node_modules/express/lib/router/route.js:137:13)<br> &nbsp; &nbsp;at Route.dispatch (/home/lisk/forger_lisk/node_modules/express/lib/router/route.js:112:3)<br> &nbsp; &nbsp;at Layer.handle [as handle_request] (/home/lisk/forger_lisk/node_modules/express/lib/router/layer.js:95:5)<br> &nbsp; &nbsp;at /home/lisk/forger_lisk/node_modules/express/lib/router/index.js:281:22<br> &nbsp; &nbsp;at Function.process_params (/home/lisk/forger_lisk/node_modules/express/lib/router/index.js:335:12)<br> &nbsp; &nbsp;at next (/home/lisk/forger_lisk/node_modules/express/lib/router/index.js:275:10)</pre>
+</body>
+</html>
+
+Get consensus servers: 
+host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com consensus: 94
+host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com consensus: 100
+host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com consensus: 100
+host: 172.18.90.83 consensus: 88
+Forging: 
+   set forging: ec2-3-18-101-112.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: ec2-18-223-188-61.us-east-2.compute.amazonaws.com Forging status:true
+   set forging: ec2-18-191-154-52.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: 172.18.90.83 Forging status:false
+Host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":true}]}
+completed
+Host: 172.18.90.83 <!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>SyntaxError: Unexpected token u in JSON at position 0<br> &nbsp; &nbsp;at JSON.parse (&lt;anonymous&gt;)<br> &nbsp; &nbsp;at setForging (/home/lisk/forger_lisk/index.js:73:17)<br> &nbsp; &nbsp;at /home/lisk/forger_lisk/index.js:24:48<br> &nbsp; &nbsp;at Layer.handle [as handle_request] (/home/lisk/forger_lisk/node_modules/express/lib/router/layer.js:95:5)<br> &nbsp; &nbsp;at next (/home/lisk/forger_lisk/node_modules/express/lib/router/route.js:137:13)<br> &nbsp; &nbsp;at Route.dispatch (/home/lisk/forger_lisk/node_modules/express/lib/router/route.js:112:3)<br> &nbsp; &nbsp;at Layer.handle [as handle_request] (/home/lisk/forger_lisk/node_modules/express/lib/router/layer.js:95:5)<br> &nbsp; &nbsp;at /home/lisk/forger_lisk/node_modules/express/lib/router/index.js:281:22<br> &nbsp; &nbsp;at Function.process_params (/home/lisk/forger_lisk/node_modules/express/lib/router/index.js:335:12)<br> &nbsp; &nbsp;at next (/home/lisk/forger_lisk/node_modules/express/lib/router/index.js:275:10)</pre>
+</body>
+</html>
+
+Get consensus servers: 
+host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com consensus: 94
+host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com consensus: 100
+host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com consensus: 100
+host: 172.18.90.83 consensus: 100
+Forging: 
+   set forging: ec2-3-18-101-112.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: ec2-18-223-188-61.us-east-2.compute.amazonaws.com Forging status:true
+   set forging: ec2-18-191-154-52.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: 172.18.90.83 Forging status:false
+Host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":true}]}
+completed
+Host: 172.18.90.83 <!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>SyntaxError: Unexpected token u in JSON at position 0<br> &nbsp; &nbsp;at JSON.parse (&lt;anonymous&gt;)<br> &nbsp; &nbsp;at setForging (/home/lisk/forger_lisk/index.js:73:17)<br> &nbsp; &nbsp;at /home/lisk/forger_lisk/index.js:24:48<br> &nbsp; &nbsp;at Layer.handle [as handle_request] (/home/lisk/forger_lisk/node_modules/express/lib/router/layer.js:95:5)<br> &nbsp; &nbsp;at next (/home/lisk/forger_lisk/node_modules/express/lib/router/route.js:137:13)<br> &nbsp; &nbsp;at Route.dispatch (/home/lisk/forger_lisk/node_modules/express/lib/router/route.js:112:3)<br> &nbsp; &nbsp;at Layer.handle [as handle_request] (/home/lisk/forger_lisk/node_modules/express/lib/router/layer.js:95:5)<br> &nbsp; &nbsp;at /home/lisk/forger_lisk/node_modules/express/lib/router/index.js:281:22<br> &nbsp; &nbsp;at Function.process_params (/home/lisk/forger_lisk/node_modules/express/lib/router/index.js:335:12)<br> &nbsp; &nbsp;at next (/home/lisk/forger_lisk/node_modules/express/lib/router/index.js:275:10)</pre>
+</body>
+</html>
+
+Get consensus servers: 
+host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com consensus: 95
+host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com consensus: 100
+host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com consensus: 100
+host: 172.18.90.83 consensus: 0
+Forging: 
+   set forging: ec2-3-18-101-112.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: ec2-18-223-188-61.us-east-2.compute.amazonaws.com Forging status:true
+   set forging: ec2-18-191-154-52.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: 172.18.90.83 Forging status:false
+Host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":true}]}
+completed
+Host: 172.18.90.83 {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Get consensus servers: 
+host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com consensus: 95
+host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com consensus: 95
+host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com consensus: 100
+Forging: 
+   set forging: ec2-3-18-101-112.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: ec2-18-223-188-61.us-east-2.compute.amazonaws.com Forging status:false
+   set forging: ec2-18-191-154-52.us-east-2.compute.amazonaws.com Forging status:true
+Server 172.18.90.83 not accessible
+Host: ec2-3-18-101-112.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed
+Host: ec2-18-191-154-52.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":true}]}
+completed
+Host: ec2-18-223-188-61.us-east-2.compute.amazonaws.com {"result":[{"publicKey":"614e572997ab1316932bb90d112cd445f91acd611c3d673a607b9642f555449d","forging":false}]}
+completed

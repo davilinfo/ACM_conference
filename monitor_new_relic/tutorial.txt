@@ -1,4 +1,0 @@
-passo 1: atualizar variável de ambiente linux com license key da new relic 
-export NEW_RELIC_LICENSE_KEY=mmmmm
-
-passo 2: iniciar benchmarking por 1H

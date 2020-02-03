@@ -6,6 +6,7 @@ var monitorServers = require('fs');
 var servers = [];
 var betterConsensusServer = null;
 var timeInterval = null;
+var timeToWait = 15000;
 
 console.log('initiating');
 initialization();
@@ -63,14 +64,19 @@ function verifyConsensus(){
           consensusRequest.open(
               "GET",
               "http://".concat(server.host).concat(":").concat(server.port).concat("/api/node/status"),
-              false
+              true
           );
   
           consensusRequest.setRequestHeader("server-host", JSON.stringify(server.host));
           consensusRequest.send();
       });
-  
-      updateServerProperties();
+        
+      var objTimeout = setTimeout(() => {        
+        updateServerProperties();
+        }, timeToWait);
+
+      objTimeout.ref();
+
     }catch(e){
       verifyConsensus();
     }    
